@@ -1,0 +1,29 @@
+
+#BackGroundImageInExpMv{
+    height: 25rem;
+}
+.SearchIcon{
+    margin-top: 0%;
+}
+.topdiv{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.ExpandedMovieDiv{
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        padding: 2% 2%;
+}
+.ExpPoster img{
+    height: 17rem;
+    width:auto;
+
+}
+.ExpDetails{
+    padding-left: 5%;
+    padding-top: 0%;
+    color: white;
+}

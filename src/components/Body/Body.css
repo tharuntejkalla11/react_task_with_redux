@@ -1,0 +1,19 @@
+.body{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+.eachmovie{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-decoration: none;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    margin: 2% 5% 5% 0%;
+}

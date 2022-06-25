@@ -1,0 +1,15 @@
+.oneMovie{
+    color: aliceblue;
+}
+
+.poster img{
+    height: 30rem;
+}
+.movietitle{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+.genere{
+text-decoration: wavy;
+}
